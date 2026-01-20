@@ -12,5 +12,9 @@ To enable a richer and more engaged community, we also allow users to request to
 
 We also implement a Tag system, where users can identify their own interests by selecting a limited number of pre-defined tags. Furthermore, some of these tags can be added to posts, allowing users to browse by certain tags and find specific questions or answers to related topics. 
 
+For more information, please read MangoDB_docs.pdf
+
+Thank you for checking out MangoDB!!
+
 ## Entity-Relationship Diagram: 
 <img width="1154" height="1484" alt="image" src="https://github.com/user-attachments/assets/cbcf5d38-48f1-49ec-9921-aa9ebd28c1b6" />
